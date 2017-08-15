@@ -7,6 +7,10 @@
     "url": "git@github.com:MiguhRuiz/react-intro.git",
     "type": "git"
   },
+  "scripts": {
+    "build": "webpack",
+    "build:watch": "webpack -w"
+  },
   "author": "Miguh Ruiz <m@miguhruiz.xyz> (https://miguhruiz.xyz)",
   "license": "MIT",
   "dependencies": {
